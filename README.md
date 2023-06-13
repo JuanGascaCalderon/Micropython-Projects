@@ -1,4 +1,4 @@
-# Micropython-Projects :tw-2b07:
+# Micropython-Projects :tw-2b07: 
 MicroPython is a slim and efficient version of Python 3 designed for microcontrollers and constrained environments. It includes a small subset of the Python standard library and runs on the MicroPython pyboard, an electronic circuit board. Despite its small size, MicroPython offers advanced features like an interactive prompt, closures, generators, and exception handling. It aims to be highly compatible with regular Python, facilitating code transfer between desktop and embedded systems. You can find all the information that you want in the official website at [micropython.org.](http://https://micropython.org/ "micropython.org.")
 ![](https://www.esploradores.com/wp-content/uploads/2019/01/micropython_title-900x480.jpg)
 ### About this repository:tw-26a1:
